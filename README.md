@@ -6,6 +6,6 @@ Controle de Estoque
 - Atualizar informações de produtos existentes
 - Visualizar todos os produtos em estoque
 
-##Caso o arquivo "Estoque_refatorado" não execute direto pela main, na ordem, use estes seguintes comando no seu terminal:
-##"gcc main.c estoque.c -o controle_estoque"
-##"./controle_estoque"
+Caso o arquivo "Estoque_refatorado" não execute direto pela main, na ordem, use estes seguintes comando no seu terminal:
+"gcc main.c estoque.c -o controle_estoque"
+"./controle_estoque"
